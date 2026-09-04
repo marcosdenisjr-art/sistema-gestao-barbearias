@@ -1,0 +1,16 @@
+{
+    "cSpell.language": "en,pt-br",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "editor.unicodeHighlight.nonBasicASCII": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    }
+}
