@@ -1,6 +1,7 @@
 {
     "cSpell.language": "en,pt-br",
     "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
 
     "[markdown]": {
         "editor.unicodeHighlight.ambiguousCharacters": false,
