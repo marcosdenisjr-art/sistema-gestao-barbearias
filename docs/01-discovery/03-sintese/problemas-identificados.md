@@ -173,11 +173,9 @@ pontualidade.
 
 ### P-009 — Interferência do cliente na definição do preço do serviço
 
-Um participante relatou como problema a situação descrita como
-"cliente dar preço no serviço".
-
-O significado exato da expressão não foi detalhado na resposta do
-participante.
+Um participante relatou a situação descrita como "cliente dar preço no
+serviço". O esclarecimento recebido para esta síntese é que o cliente precisa
+entender com clareza o valor do serviço.
 
 **Evidência relacionada:**
 
@@ -185,9 +183,8 @@ participante.
 
 **Observação:**
 
-O Discovery não apresenta evidências suficientes para determinar com
-precisão a natureza dessa situação ou estabelecer que ela deva ser
-solucionada por uma funcionalidade do sistema.
+O esclarecimento ajuda a formular a necessidade de clareza sobre o valor,
+mas não determina uma solução ou funcionalidade do sistema.
 
 ---
 
